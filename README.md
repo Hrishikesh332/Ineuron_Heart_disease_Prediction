@@ -13,7 +13,7 @@ The heart disease describes a range of conditions affecting our heart. It can in
 
 ## Roadmap
 
-- Identify key features
+- Identifyt the key features
 
 - Data preprocessing
 
